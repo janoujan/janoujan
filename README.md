@@ -36,7 +36,7 @@ Node.js / Express / MongoDb / Postman / Firebase
 [![My Skills](https://skillicons.dev/icons?i=nodejs,express,mongodb,postman,firebase&theme=light)](https://skillicons.dev)
 ### DevOps:         
     
-Aws / Gpc  
+Begining with Aws / Gpc  
     
 [![My Skills](https://skillicons.dev/icons?i=aws,gcp&theme=light)](https://skillicons.dev)
 ### Other Tools:         
