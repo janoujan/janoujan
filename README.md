@@ -38,12 +38,12 @@ Node.js / Express / MongoDb / Postman / Firebase
     
 Aws / Gpc  
     
-[![My Skills](https://skillicons.dev/icons?i=aws,gpc&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=aws,gcp&theme=light)](https://skillicons.dev)
 ### Other Tools:         
     
-Git / Mocha / Arduino
+Git / Arduino
 
-[![My Skills](https://skillicons.dev/icons?i=git,mocha,arduino&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=git,arduino&theme=light)](https://skillicons.dev)
 
 ### Stats:
 
