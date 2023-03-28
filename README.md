@@ -18,7 +18,7 @@ constantly looking for the best practices to improve, UX/UI design, SEO, accessi
 - I'm using MERN stack: **MongoDb / Express / React / Node.js** [![My Skills](https://skillicons.dev/icons?i=mongodb,express,react,nodejs&theme=light)](https://skillicons.dev)   
   but i'm open to changes 🙂   
 
-- 🌱 I’m currently learning **Three.js and Typescript** [![My Skills](https://skillicons.dev/icons?i=threejs,typescript&theme=light)](https://skillicons.dev)    
+- 🌱 I’m currently learning **Three.js and Typescript** [![My Skills](https://skillicons.dev/icons?i=threejs,typescript,inkscape&theme=light)](https://skillicons.dev)    
   
 - 👨‍💻 All of my projects are available at [my portfolio](https://janou.pro/)
 
