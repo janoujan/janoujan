@@ -13,7 +13,7 @@ constantly looking for the best practices to improve, UX/UI design, SEO, accessi
 - I've got a wide range of interrest, from Raspi, arduino and esp32 to cybersecurity     
 
 - I'm speaking **HTML5 / CSS3 / Js (EcmaScript6)** French, English, Spanish and Malagasy 😄   
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,&theme=light)](https://skillicons.dev) 
+![My Skills](https://skillicons.dev/icons?i=html,css,js,&theme=light) 
 
 - I'm using MERN stack: **MongoDb / Express / React / Node.js** [![My Skills](https://skillicons.dev/icons?i=mongodb,express,react,nodejs&theme=light)](https://skillicons.dev)   
   but i'm open to changes 🙂   
