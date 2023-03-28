@@ -10,7 +10,7 @@
 - Developing dynamic sites and API REST,   
 constantly looking for the best practices to improve, UX/UI design, SEO, accessibility and site performance.   
 
-- I've got a wide range of interrest, from Raspi, arduino and esp32 to cybersecurity     
+- I've got a wide range of interrest, from Raspi, arduino and esp32 to cybersecurity passing by reverse engineering    
 
 - I'm speaking **HTML5 / CSS3 / Js (EcmaScript6)** French, English, Spanish and Malagasy 😄   
 [![My Skills](https://skillicons.dev/icons?i=html&theme=light)](https://developer.mozilla.org/en-US/docs/Learn/HTML/Introduction_to_HTML) [![My Skills](https://skillicons.dev/icons?i=css&theme=light)](https://www.w3.org/Style/CSS/) [![My Skills](https://skillicons.dev/icons?i=js&theme=light)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)  
