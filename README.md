@@ -3,7 +3,7 @@
 
 
 <h1 align="center">Janou BERTRAND</h1>
-<h3 align="center">full - stack developer Junior</h3>
+<h3 align="center">Web developer Junior</h3>
 
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=janoujan&label=Profile%20views&color=0e75b6&style=flat" alt="janoujan views" /> </p>
 
