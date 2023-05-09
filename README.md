@@ -15,8 +15,9 @@ constantly looking for the best practices to improve, UX/UI design, SEO, accessi
 - I'm speaking **HTML5 / CSS3 / Js (EcmaScript6)** French, English, Spanish and Malagasy 😄   
 [![My Skills](https://skillicons.dev/icons?i=html&theme=light)](https://developer.mozilla.org/en-US/docs/Learn/HTML/Introduction_to_HTML) [![My Skills](https://skillicons.dev/icons?i=css&theme=light)](https://www.w3.org/Style/CSS/) [![My Skills](https://skillicons.dev/icons?i=js&theme=light)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)  
 
-- I'm using JAMstack mostly, i'm also keen on MERN stack: **MongoDb / Express / React / Node.js** [![My Skills](https://skillicons.dev/icons?i=mongodb,express,react,nodejs&theme=light)](https://skillicons.dev)   
-  but i'm open to changes 🙂   
+- I'm keen on MERN stack: **MongoDb / Express / React / Node.js** [![My Skills](https://skillicons.dev/icons?i=mongodb,express,react,nodejs&theme=light)](https://skillicons.dev)   
+
+- I'm also keen on [Jamstack](https://jamstack.org/) architecture
 
 - 🌱 I’m currently learning **Three.js and Typescript** [![My Skills](https://skillicons.dev/icons?i=threejs,typescriptg&theme=light)](https://skillicons.dev)    
   
