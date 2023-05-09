@@ -19,7 +19,7 @@ constantly looking for the best practices to improve, UX/UI design, SEO, accessi
 [![My Skills](https://skillicons.dev/icons?i=mongodb,express,react,nodejs&theme=light)](https://skillicons.dev)   
 
 - I'm also keen on [Jamstack](https://jamstack.org/) architecture    
-<img src="/Jamstack.png" alt="Jamstack logo" />
+<img src="/Jamstack.png" alt="Jamstack logo" style="width:40px; height:40px;" />
 
 - 🌱 I’m currently learning **Three.js and Typescript** [![My Skills](https://skillicons.dev/icons?i=threejs,typescriptg&theme=light)](https://skillicons.dev)    
   
