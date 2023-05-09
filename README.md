@@ -18,8 +18,7 @@ constantly looking for the best practices to improve, UX/UI design, SEO, accessi
 - I'm keen on MERN stack: **MongoDb / Express / React / Node.js**     
 [![My Skills](https://skillicons.dev/icons?i=mongodb,express,react,nodejs&theme=light)](https://skillicons.dev)   
 
-- I'm also keen on [Jamstack](https://jamstack.org/) architecture    
-   <img src="/Jamstack.png" alt="Jamstack logo" style="width:60px; height:60px;" />
+- I'm also keen on [Jamstack](https://jamstack.org/) architecture <img src="/Jamstack.png" alt="Jamstack logo" style="width:60px; height:70px;" />
 
 - 🌱 I’m currently learning **Three.js and Typescript** [![My Skills](https://skillicons.dev/icons?i=threejs,typescriptg&theme=light)](https://skillicons.dev)    
   
