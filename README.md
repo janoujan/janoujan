@@ -21,7 +21,7 @@ constantly looking for the best practices to improve, UX/UI design, SEO, accessi
 - I'm also keen on [Jamstack](https://jamstack.org/) architecture    
   <img src="/Jamstack.png" alt="Jamstack logo" style="width:60px; height:70px; margin:0;" />
 
-- 🌱 I’m currently learning **Three.js and Typescript** [![My Skills](https://skillicons.dev/icons?i=threejs,typescriptg&theme=light)](https://skillicons.dev)    
+- 🌱 I’m currently learning **Next.js and Typescript** [![My Skills](https://skillicons.dev/icons?i=nextjs,typescriptg&theme=light)](https://skillicons.dev)    
   
 - 👨‍💻 All of my projects are available at [my portfolio](https://janou.pro/)
 
