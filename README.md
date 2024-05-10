@@ -1,11 +1,11 @@
 <p align="center"> <img src="/welcome.gif" alt="welcome banner" style="width: 100%;"/></p>
 
 <h1 align="center">Janou BERTRAND</h1>
-<h3 align="center">Web developer Junior</h3>
+<h3 align="center">Web developer</h3>
 
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=janoujan&label=Profile%20views&color=0e75b6&style=flat" alt="janoujan views" /> </p>
 
-- Developing dynamic sites and API REST,  
+- Developing dynamic sites and apps,  
   constantly looking for the best practices to improve, UX/UI design, SEO, accessibility and site performance.
 
 - I've got a wide range of interrest, from Raspi, arduino and esp32 to cybersecurity passing by reverse engineering to AI breaktrough.
