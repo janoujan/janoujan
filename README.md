@@ -49,9 +49,9 @@ Begining with Aws / Gpc
 
 ### Other Tools:
 
-Git / Arduino
+Git / Arduino / VScode / Linux / Windows / Npm / Pnpm / Yarn
 
-[![My Skills](https://skillicons.dev/icons?i=git,arduino&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=git,arduino,vscode,linux,windows,npm,pnpm,yarn&theme=light)](https://skillicons.dev)
 
 ### Stats:
 
