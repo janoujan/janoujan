@@ -18,9 +18,9 @@
 
 - I'm also keen on [Jamstack](https://jamstack.org/) architecture using: NextJs , PayloadCMS or Sanity  
    <img src="/Jamstack.png" alt="Jamstack logo" style="width:60px; height:70px;" />
-  <img src="/next-js-icon.png" alt="NextJs logo" style="width:50px; height:50px;" />
-  <img src="/payloadcms.avif" alt="payloadCMS logo" style="width:50px; height:50px;" />
-  <img src="/sanity-icon.png" alt="payloadCMS logo" style="width:50px; height:50px;" />
+  <img src="/nextjs.png" alt="NextJs logo" style="width:60px; height:70px;" />
+  <img src="/payloadcms.avif" alt="payloadCMS logo" style="width:60px; height:70px;" />
+  <img src="/sanity-icon.png" alt="payloadCMS logo" style="width:60px; height:70px;" />
 
 - 🌱 I’m currently learning **Python**  
   [![My Skills](https://skillicons.dev/icons?i=py&theme=light)](https://skillicons.dev)
