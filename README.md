@@ -22,7 +22,7 @@ constantly looking for the best practices to improve, UX/UI design, SEO, accessi
   <img src="/Jamstack.png" alt="Jamstack logo" style="width:60px; height:70px;" />
  [![My Skills](https://skillicons.dev/icons?i=nextjs,payload&theme=light)](https://skillicons.dev)
 - 🌱 I’m currently learning **Python**     
- [![My Skills](https://skillicons.dev/icons?i=py,ts&theme=light)](https://skillicons.dev)    
+ [![My Skills](https://skillicons.dev/icons?i=py&theme=light)](https://skillicons.dev)    
   
 - 👨‍💻 All of my projects are available at [my portfolio](https://janou.pro/)
 
