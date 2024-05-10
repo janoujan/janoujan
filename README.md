@@ -17,13 +17,12 @@
   [![My Skills](https://skillicons.dev/icons?i=mongodb,express,react,nodejs&theme=light)](https://skillicons.dev)
 
 - I'm also keen on [Jamstack](https://jamstack.org/) architecture using: NextJs , PayloadCMS or Sanity  
-  <img src="/Jamstack.png" alt="Jamstack logo" style="width:60px; height:70px;" />
-  <img src="/payloadcms.avif" alt="payloadCMS logo" style="width:60px; height:70px;" />
-
-[![My Skills](https://skillicons.dev/icons?i=nextjs,payload&theme=light)](https://skillicons.dev)
+   <img src="/Jamstack.png" alt="Jamstack logo" style="width:60px; height:70px;" />
+  [![My Skills](https://skillicons.dev/icons?i=nextjs,payload&theme=light)](https://skillicons.dev)
+  <img src="/payloadcms.avif" alt="payloadCMS logo" style="width:50px; height:50px;" />
 
 - 🌱 I’m currently learning **Python**  
-  [![My Skills](https://skillicons.dev/icons?i=py&theme=light)](https://skillicons.dev)  
+  [![My Skills](https://skillicons.dev/icons?i=py&theme=light)](https://skillicons.dev)
 
 - 👨‍💻 All of my projects are available at [my portfolio](https://janou.pro/)
 
