@@ -31,15 +31,15 @@
 
 ### Frontend:
 
-React / React Router / React Three Fiber / Three.js / Styled - components / Saas / Figma
+React / React Router / React Three Fiber / Three.js / Styled - components / Saas / TailwindCSS / Figma 
 
-[![My Skills](https://skillicons.dev/icons?i=react,threejs,styledcomponents,sass,figma&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=react,threejs,styledcomponents,sass,tailwind,figma&theme=light)](https://skillicons.dev)
 
 ### Backend:
 
-Node.js / Express / MongoDb / Postman / Firebase
+Node.js / Express / MongoDb / Postman / Firebase / GraphQL
 
-[![My Skills](https://skillicons.dev/icons?i=nodejs,express,mongodb,postman,firebase&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=nodejs,express,mongodb,postman,firebase,graphql&theme=light)](https://skillicons.dev)
 
 ### DevOps:
 
