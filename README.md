@@ -1,6 +1,4 @@
-<p align="center"> <img src="/escrer-dare.gif" alt="welcome banner" style="width: 100%;"/></p>
-
-<h1 align="center">Janou BERTRAND</h1>
+<p align="center"> <img src="/escrer-dare.gif" alt="welcome banner" style="width: 100%;"/>
 
 ### Stats:
 
